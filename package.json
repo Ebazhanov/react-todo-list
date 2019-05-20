@@ -21,5 +21,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/Ebazhanov/react.git",
+  "author": "Evgeny Bazhanov <evg.bazhanov@yahoo.com>",
+  "license": "MIT"
 }
