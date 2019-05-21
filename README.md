@@ -1,5 +1,9 @@
-ToDo list exercise
+ToDo list exercise 
 ------------------
+> In progress
+
+ available here [https://bazh.netlify.com/](https://bazh.netlify.com/)
+
 - `$ npm i -g create-react-app`
 - `$ create-react-app todo`
 - `$ yarn start` Starts the development server.
