@@ -2,7 +2,7 @@ ToDo list exercise
 ------------------
 > In progress
 
- available here [https://bazh.netlify.com/](https://bazh.netlify.com/)
+ available here [https://evg-react-todo-list.netlify.com/](https://evg-react-todo-list.netlify.com/)
 
 - `$ npm i -g create-react-app`
 - `$ create-react-app todo`
